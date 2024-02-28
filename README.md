@@ -4,6 +4,9 @@ I have added this line in remote server.
 
 
 I'm in branch A :D
-------------------
 
-Offense take by A
+
+Offense take by A in consideration with B
+
+
+Branch B is offensive
